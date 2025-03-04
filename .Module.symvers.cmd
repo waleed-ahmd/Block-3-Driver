@@ -1,1 +1,0 @@
-savedcmd_/home/waleed/Block-3-Driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/waleed/Block-3-Driver/Module.symvers -T /home/waleed/Block-3-Driver/modules.order -i Module.symvers -e 

@@ -1,1 +1,0 @@
-savedcmd_/home/waleed/Block-3-Driver/Driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/waleed/Block-3-Driver/Driver.ko /home/waleed/Block-3-Driver/Driver.o /home/waleed/Block-3-Driver/Driver.mod.o
