@@ -6,6 +6,7 @@
 #include <linux/proc_fs.h> //for proc file
 //april added a comment
 //Waleed added a comment
+// added another comment
 #include <linux/device.h>
 #define DEVICE_NAME "loopback" //name of device
 #define BUFFER_SIZE 1024 //size of internal buffer
