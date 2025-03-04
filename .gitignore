@@ -1,0 +1,16 @@
+# Ignore build artifacts
+*.o
+*.ko
+*.mod.c
+*.mod.o
+*.symvers
+modules.order
+*.cmd
+
+# Ignore OS/editor files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore node_modules (if using Node.js)
+node_modules/
